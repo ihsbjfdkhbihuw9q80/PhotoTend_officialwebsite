@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>5-4-2</title>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="1.3166521%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#4FAAF7" offset="0%"></stop>
+            <stop stop-color="#003ED3" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="5-4-2" stroke="none" fill="none" fill-rule="evenodd" stroke-width="1">
+        <g id="编组" transform="translate(7.474, 7.3828)">
+            <path d="M10.9375,1 L10.9375,20.6875 C7.109375,20.6875 4.26480469,15.6776328 4.26480469,15.6776328 L1.09375,15.6776328 C0.489688281,15.6776328 0,15.1879609 0,14.5838828 L0,7.02153125 C0,6.41745312 0.489688281,5.92778125 1.09375,5.92778125 L4.26480469,5.92778125 C4.26480469,5.92778125 7.109375,1 10.9375,1 Z" id="路径" stroke="url(#linearGradient-1)" stroke-width="1.83333333" fill="url(#linearGradient-1)" fill-rule="nonzero" stroke-linejoin="round"></path>
+            <path d="M15,6 L15,6 C15.3408125,6.30433594 15.6497422,6.64514844 15.9209922,7.01653125 C16.7164766,8.1056875 17.1875,9.45750781 17.1875,10.921875 C17.1875,12.3735547 16.7245703,13.7146016 15.9416094,14.7988359 C15.6654375,15.1812109 15.3495078,15.5316484 15,15.84375" id="路径" stroke="#4FAAF7" stroke-width="1.83333333" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M17,21 C20.1979609,18.857188 22.3397422,14.9340812 22.3397422,10.4494256 C22.3397422,6.03444945 20.2639687,2.16370974 17.1482578,0" id="路径" stroke="#4FAAF7" stroke-width="1.83333333" stroke-linecap="round"></path>
+        </g>
+    </g>
+</svg>

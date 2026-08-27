@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PhotoTend - Reclaim storage. Keep the memories</title>
+  <script type="text/javascript">
+    (function () {
+      var userLang = navigator.language || navigator.userLanguage;
+      if (userLang.startsWith('zh')) {
+        window.location.href = '/zh/index.html';
+      } else if (userLang.startsWith('jp')) {
+        window.location.href = '/jp/index.html';
+      } else {
+        window.location.href = '/en/index.html';
+      }
+    })();
+  </script>
+</head>
+
+<body>
+  <p>Redirecting to suitable language page...</p>
+  <p><a href="/en/index.html">Click here if not redirected automatically.</a></p>
+</body>
+
+</html>

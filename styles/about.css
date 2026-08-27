@@ -1,0 +1,19 @@
+#about {
+  background-color: var(--surface-color);
+
+  & .even-columns {
+    gap: 2rem;
+  }
+}
+
+#about h1:hover {
+  background: linear-gradient(
+    90deg,
+    var(--brand-color-secondary) 0%,
+    var(--brand-color-primary) 100%
+  );
+
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}

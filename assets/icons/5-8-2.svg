@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>5-8-2</title>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="1.3166521%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#4FAAF7" offset="0%"></stop>
+            <stop stop-color="#003ED3" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#4FAAF7" offset="0%"></stop>
+            <stop stop-color="#003ED3" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="5-8-2" stroke="none" fill="none" fill-rule="evenodd" stroke-width="1">
+        <g id="编组" transform="translate(5, 4)">
+            <path d="M12.5054944,5.52446977e-13 L24,3.42772354 L24,10.4571643 C24,17.8456015 19.3681833,24.404898 12.5016611,26.7404881 C5.63328611,24.4049633 1,17.8441667 1,10.4539033 L1,3.42772354 L12.5054944,5.52446977e-13 Z M12.5,6 C11.7820298,6 11.2,6.58202983 11.2,7.3 L11.199,11.2 L7.3,11.2 C6.58202983,11.2 6,11.7820298 6,12.5 L6.00671175,12.6329174 C6.07328475,13.2884503 6.62690296,13.8 7.3,13.8 L11.199,13.8 L11.2,17.7 C11.2,18.4179702 11.7820298,19 12.5,19 C13.2179702,19 13.8,18.4179702 13.8,17.7 L13.8,13.8 L17.7,13.8 C18.4179702,13.8 19,13.2179702 19,12.5 L18.9932882,12.3670826 C18.9267153,11.7115497 18.373097,11.2 17.7,11.2 L13.8,11.2 L13.8,7.3 C13.8,6.58202983 13.2179702,6 12.5,6 Z" id="形状结合" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+            <path d="M1,3.42772354 L12.5054944,2.82440737e-13 L24,3.42772354 L24,10.4571643 C24,17.8456015 19.3681833,24.404898 12.5016611,26.7404881 C5.63328611,24.4049633 1,17.8441667 1,10.4539033 L1,3.42772354 Z" id="路径" stroke="url(#linearGradient-2)" stroke-width="2.1" stroke-linejoin="round" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

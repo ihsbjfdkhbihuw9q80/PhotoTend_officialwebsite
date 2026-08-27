@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>5-2-2</title>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="1.3166521%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#4FAAF7" offset="0%"></stop>
+            <stop stop-color="#003ED3" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="5-2-2" stroke="none" fill="none" fill-rule="evenodd" stroke-linejoin="round" stroke-width="1">
+        <g id="形状结合" transform="translate(4.1927, 4.1927)" fill="url(#linearGradient-1)" stroke="url(#linearGradient-1)" fill-rule="nonzero">
+            <path d="M13.125,0 C20.3737406,0 26.25,5.87625938 26.25,13.125 C26.25,20.3737406 20.3737406,26.25 13.125,26.25 C5.87625938,26.25 0,20.3737406 0,13.125 C0,5.87625938 5.87625938,0 13.125,0 Z M10.3906244,6.75005758 C9.07031901,6.75005758 8,7.82037659 8,9.140682 L8,17.4220446 C8,17.8416868 8.11046178,18.2539359 8.32028281,18.6173568 C8.98043552,19.7607753 10.4425189,20.1525397 11.5859375,19.492387 L15.1718749,17.422046 L18.7578124,15.351705 C19.1212335,15.1418839 19.4230209,14.8400964 19.632842,14.4766754 C20.2929943,13.3332576 19.9012302,11.8711752 18.7578124,11.211023 L15.1718749,9.140682 L11.5859362,7.07034028 C11.2225155,6.86051931 10.8102665,6.75005758 10.3906244,6.75005758 Z"></path>
+        </g>
+    </g>
+</svg>

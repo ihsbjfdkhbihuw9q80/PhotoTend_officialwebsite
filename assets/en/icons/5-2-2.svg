@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>5-2-2备份</title>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="1.3166521%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#4FAAF7" offset="0%"></stop>
+            <stop stop-color="#003ED3" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="5-2-2备份" stroke="none" fill="none" fill-rule="evenodd" stroke-width="1">
+        <g id="5-2-2" fill="url(#linearGradient-1)">
+            <path d="M17.3177,4.1927 C24.5664406,4.1927 30.4427,10.0689594 30.4427,17.3177 C30.4427,24.5664406 24.5664406,30.4427 17.3177,30.4427 C10.0689594,30.4427 4.1927,24.5664406 4.1927,17.3177 C4.1927,10.0689594 10.0689594,4.1927 17.3177,4.1927 Z" id="形状" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

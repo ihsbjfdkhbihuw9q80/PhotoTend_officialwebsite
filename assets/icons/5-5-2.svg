@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>5-5-2</title>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="1.3166521%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#4FAAF7" offset="0%"></stop>
+            <stop stop-color="#003ED3" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="5-5-2" stroke="none" fill="none" fill-rule="nonzero" stroke-linejoin="round" stroke-width="1.83333333">
+        <polygon id="路径" stroke="url(#linearGradient-1)" fill="url(#linearGradient-1)" points="18.4105396 4.69401042 14.3988833 12.8824354 5.28645833 14.2037948 11.8876115 20.6573573 10.3096583 29.6315104 18.4105396 25.3128604 26.5131271 29.6315104 24.9467896 20.6573573 31.5364583 14.2037948 22.474499 12.8824354"></polygon>
+    </g>
+</svg>

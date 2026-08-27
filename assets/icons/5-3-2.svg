@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>5-3-2</title>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="1.3166521%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#4FAAF7" offset="0%"></stop>
+            <stop stop-color="#003ED3" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="1.23259516e-30%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#003ED3" offset="0%"></stop>
+            <stop stop-color="#4FAAF7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="1.3166521%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#4FAAF7" offset="0%"></stop>
+            <stop stop-color="#003ED3" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-4">
+            <stop stop-color="#003ED3" offset="0.529938811%"></stop>
+            <stop stop-color="#4FAAF7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="5-3-2" stroke="none" fill="none" fill-rule="evenodd" stroke-linejoin="round" stroke-width="1">
+        <g id="编组备份" transform="translate(5.6484, 5.2891)">
+            <path d="M11.53125,0.5 C4.88659115,0.5 -0.5,5.88659115 -0.5,12.53125 C-0.5,19.1759089 4.88659115,24.5625 11.53125,24.5625 C18.1759089,24.5625 23.5625,19.1759089 23.5625,12.53125" id="路径" stroke="url(#linearGradient-1)" stroke-width="3" stroke-linecap="round"></path>
+            <path d="M12.03125,6.015625 C8.70888715,6.015625 6.015625,8.70888715 6.015625,12.03125 C6.015625,15.3536128 8.70888715,18.046875 12.03125,18.046875 C15.3536128,18.046875 18.046875,15.3536128 18.046875,12.03125" id="路径" stroke="url(#linearGradient-1)" stroke-width="2.5" stroke-linecap="round"></path>
+            <line x1="12.53125" y1="11.5313168" x2="16.7421875" y2="7.3165026" id="路径" stroke="url(#linearGradient-2)" stroke-width="2" stroke-linecap="round"></line>
+            <polygon id="路径" stroke="url(#linearGradient-4)" stroke-width="1.83333333" fill="url(#linearGradient-3)" fill-rule="nonzero" points="16.7420538 3.12702083 16.7420538 7.3203125 20.9697682 7.3203125 24.5624332 3.71107118 20.3536345 3.71107118 20.3536345 -0.5"></polygon>
+        </g>
+    </g>
+</svg>
